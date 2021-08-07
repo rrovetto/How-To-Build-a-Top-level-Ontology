@@ -1,8 +1,9 @@
 Some generic or abstract concepts relevant for creating highly abstract/generic ontologies include the following.
-We can identity or discover these by introspecting and reflecting on natural language: 
+We can identity or discover these by introspecting and reflecting on natural language:
 * what are some of the most generic words?
 * what are some words that can be applied to various things (e.g. 'thing')? 
 
+Sample of highly generic terms
 * space
 * time
 * space-time
