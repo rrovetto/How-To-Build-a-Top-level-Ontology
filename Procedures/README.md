@@ -1,4 +1,4 @@
-Sample procedures:
+Sample procedures for creating a top-level (generic) ontology
 
 _Scenario_: create a more abstract ontology relative to a given ontology. 
 
