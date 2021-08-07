@@ -1,11 +1,12 @@
 # How To Build a Top-level Ontology
 
-This project aims to provide a procedure for developing (a) the most abstract or generic ontologies, and (b) a more generic ontology relative to a given ontology. A step-by-step procedure may help novice and professional ontologists, alike. 
+This project aims to provide a procedure for developing (a) the most abstract or generic ontologies, and (b) a more generic ontology relative to a given ontology. A step-by-step procedure may help novice and professional ontologists, alike. A minimum goal is to provide a set of guidelines on how to build these generic (also called foundational, core, upper, or top-level) ontologies.
 
-The topic of generic or so-called foundational ontology can seen daunting and full of philosophical baggage. The latter is true because of the highly generic and abstract aspects of the activity and the concepts involved. This project seeks to determine if a comprehensible stepwise procedure can be developed for creating such ontologies. This will make the design and development of generic ontologies more accessible to all. 
+The topic of generic or foundaitonal ontologies can seen daunting and full of philosophical baggage. The latter is true because of the highly abstract concepts and aspects involved. This project seeks to determine if a comprehensible stepwise procedure can be developed for creating such ontologies. This will make the design and development of generic ontologies more accessible to all. 
 
 Topics inlcude:
-* Abstract concepts
-* Abstract distinctions
-* Abstract questions
+* Generic concepts: what are the most abstract concepts, and how do we identify them? what aare more generic concepts relative to a given concept?
+* Generic distinctions: what are some abstract distinctions? where do they come from? how do we form or identify them? 
+* Generic questions: what are some questions associated with the generic or abstract concepts and distinctions? 
+* Association to philosophy/philosophical inquiry: questions from philosophy (e.g. metaphysics) 
 
