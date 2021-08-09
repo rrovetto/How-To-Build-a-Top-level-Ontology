@@ -1,4 +1,4 @@
-On Terminology.
+**Terminology**
 
 In the formal ontology community, the most abstract ontologiest are often called foundational, top-level, upper, generic, or core ontologies.
 
