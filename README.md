@@ -9,3 +9,7 @@ Topics inlcude:
 * _Generic distinctions_: what are some abstract distinctions? where do they come from? how do we form or identify them? 
 * _Generic questions_: what are some questions associated with the generic or abstract concepts and distinctions? 
 * _Association to philosophy/philosophical inquiry_: questions from philosophy (e.g. metaphysics) 
+
+
+## Copyright
+© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
