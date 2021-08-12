@@ -13,5 +13,12 @@ Although I list them using 'vs', e.g., 'category vs. individual', this is not in
 * property vs. property-value
 * attribute vs. property vs. value
 
+* event vs. object
+* process vs. event
+* process vs. object
+* event vs. event participant
+
+* activity vs. actor
+
 * space vs. time vs. space-time vs. spacetime
 * cause vs. effect
