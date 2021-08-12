@@ -16,12 +16,19 @@ Sample of highly generic terms
 * object
 * category
 * class
-* relation
-* relationship
+* individual
+* particular
+* abstracta
 * attribute
 * characteristic
 * feature
 * property
 * quality
 * quantity
+* actor
+* agent
+* person
+* event
+* activity
+* process
 * 
