@@ -8,3 +8,6 @@ These, therefore, are not the most appropriate names for the most abstract ontol
 
 CONCLUSIONS: 
 * I recommend the more neutral term 'generic ontology', which is more sparsely found in the literature, but which more accurately captures the idea and goal of the most highly generic or abstract ontologies.
+
+## Copyright
+© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
