@@ -22,3 +22,7 @@ Although I list them using 'vs', e.g., 'category vs. individual', this is not in
 
 * space vs. time vs. space-time vs. spacetime
 * cause vs. effect
+
+
+## Copyright
+© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
