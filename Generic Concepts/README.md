@@ -32,3 +32,6 @@ Sample of highly generic terms
 * activity
 * process
 * 
+
+## Copyright
+© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
