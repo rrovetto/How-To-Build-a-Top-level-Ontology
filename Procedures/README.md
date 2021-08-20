@@ -10,3 +10,6 @@ _Scenario_: create a more abstract ontology relative to a given ontology.
 _Scenario_: create an ontology consisting of the most abstract or generic concepts
 * Step 1: Think of the most abstract categories you can. 
 * Step 2: 
+
+## Copyright
+© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
