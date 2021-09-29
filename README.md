@@ -14,6 +14,9 @@ Topics inlcude:
 * _Generic questions_: What are some questions associated with the generic or abstract concepts and distinctions? 
 * _Association to philosophy/philosophical inquiry_: Questions from philosophy (e.g. metaphysics) 
 
-
+### Support
+If you find value in my work, please [support/donate here](https://gogetfunding.com/knowledge-organization-services-ontology-terminology-metadata-concept-analysis/). Financial support is needed to sustain development.
 ## Copyright
-© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+© 2020-2021, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
