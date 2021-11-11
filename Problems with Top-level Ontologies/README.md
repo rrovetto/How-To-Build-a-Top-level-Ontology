@@ -1,3 +1,15 @@
 # Problems and Limitations of Top-level Ontologies
 
 This folder describes some problems with using top-level ontologies and their limitations. Included are some articles on their limitations as well. 
+
+## Some problems
+- Not all concepts or categories can necessarily be grouped or subsumed under a more generic concept or category.
+- Some concepts may be irreducible, such that they cannot be classified under a broader concept.
+- The intended meaning of some concepts may be lost by subsuming the concept under a broader.
+
+- High learning-curve: they are difficult to understand for non-specialists (non-philosophers, non-computer-scientists, etc.)
+
+## Technical 
+- For the more complex and logically formalized ontologies...
+  - They increase the 'path' between data elements, i.e., to access or otherwise perform some action on data
+   
