@@ -17,3 +17,7 @@ If you are building a computational ontology that is also philosophically laden,
 - For the more complex and logically formalized ontologies...
   - They increase the 'path' between data elements, i.e., to access or otherwise perform some action on data
    
+## Copyright
+© 2020-2022, Robert John Rovetto. All right reserved.
+Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
