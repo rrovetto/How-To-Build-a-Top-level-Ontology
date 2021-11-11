@@ -1,7 +1,7 @@
 # How To Build a Top-level Ontology
 
 ## Purpose
-This project seeks to explore whether a comprehensible stepwise procedure can be developed for creating the most abstract/generic ontologies (aka generic/general, top-level, foundational, core, upper ontologies). This will make the design and development of generic ontologies more accessible to all. This may thereby foster innovation and diversity.
+This project explores whether a comprehensible procedure can be developed for creating the most abstract/generic ontologies (aka generic/general, top-level, foundational, core, upper ontologies). It would make the design and development of generic ontologies more accessible to all, and may thereby foster innovation and diversity.
 
 The project aims to provide a procedure for developing (a) the most abstract or generic ontologies, and (b) a broader ontology relative to a given ontology. A step-by-step procedure may help novice and professional ontologists, alike. A minimum goal is to provide a set of guidelines on how to build these ontologies for both scenarios, (a) and (b).
 
