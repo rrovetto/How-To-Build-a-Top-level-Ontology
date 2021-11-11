@@ -7,6 +7,7 @@ The high degree of abstractness and generality of these types of ontology makes 
 ## Some problems
 - Not all concepts or categories can necessarily be grouped or subsumed under a more generic concept or category.
 - Some concepts may be irreducible, such that they cannot be classified under a broader concept.
+  - Consider how some theories of a given concept, category or phenomena, consider the concept to be irreducible to others. In an ontology, then, it is not necessarily subsumable.  
 - The intended meaning of some concepts may be lost by subsuming the concept under a broader.
 
 - High learning-curve: they are difficult to understand for non-specialists (non-philosophers, non-computer-scientists, etc.)
