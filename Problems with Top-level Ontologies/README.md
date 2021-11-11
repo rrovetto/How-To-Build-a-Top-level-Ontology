@@ -13,9 +13,10 @@ The high degree of abstractness and generality of these types of ontology makes 
 - High learning-curve: they are difficult to understand for non-specialists (non-philosophers, non-computer-scientists, etc.)
 
 ## Technical 
-- For the more complex and logically formalized ontologies...
+- For the more complex and logically formalized ontologies... 
   - They increase the 'path' between data elements, i.e., to access or otherwise perform some action on data
-   
+- Their practical utility is questionable. 
+
 ## Copyright
 © 2020-2022, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
