@@ -15,7 +15,7 @@ The high degree of abstractness and generality of these types of ontology makes 
 ## Technical 
 - For the more complex and logically formalized ontologies... 
   - They increase the 'path' between data elements, i.e., to access or otherwise perform some action on data
-- Their practical utility is questionable. 
+- As with all ontology, quantitative evidence for their utility is lacking or not readily available. If there is such evidence, it may be behind NDAs in enterprises. 
 
 ## Copyright
 © 2020-2022, Robert John Rovetto. All right reserved.
