@@ -6,7 +6,7 @@ The high degree of abstractness and generality of these types of ontology makes 
 
 ## Some problems
 - Not all concepts or categories can necessarily be grouped or subsumed under a more generic concept or category.
-- Some concepts may be irreducible, such that they cannot be classified under a broader concept.
+- Some concepts may be irreducible (actually so, or desired for the model), such that they cannot be classified/subsumed under, or defined/characterized in terms of a broader concept or set of concepts.
   - Consider how some theories of a given concept, category or phenomena, consider the concept to be irreducible to others. In an ontology, then, it is not necessarily subsumable.  
 - The intended meaning of some concepts may be lost by subsuming the concept under a broader.
 
@@ -16,10 +16,14 @@ The high degree of abstractness and generality of these types of ontology makes 
 - For the more complex and logically formalized ontologies... 
   - They increase the 'path' between data elements, i.e., to access or otherwise perform some action on data
 - As with all ontology, quantitative evidence for their utility is lacking or not readily available. If there is such evidence, it may be behind NDAs in enterprises. 
-- ...
-- 
+- (For all ontologies) "ontologies may have undesirable entailments." "Problem arises in several areas...
+Databases: New entry inconsistent with database.
+Robotics: Sensor information inconsistent with plans.
+Diagnosis: Device behavior inconsistent with device description.
+Ontologies: New axioms added/retracted." (In 'Belief Revision and Ontology Repair' by Renata Wassermann, September 2021 Reasoning Web Summer School)
+ 
 Consider also 
-""Science and society are in constant flux. Meaning is an emerging and
+"Science and society are in constant flux. Meaning is an emerging and
 evolving property of (human) cognition both on the individual and
 societal level. Put differently, meaning is in our heads, not in the
 world. Meaning cannot be fixed in ontologies. Instead, ontologies aim at
