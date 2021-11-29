@@ -7,7 +7,7 @@ Similarly, the name 'upper ontology' is not accuarate for the same reasons, but 
 These, therefore, are not the most appropriate names for the most abstract ontologies.
 
 ### ROB'S RECOMMENDATION 
-* I recommend the more neutral term 'generic ontology', which is more sparsely found in the literature, but which more accurately captures the idea and goal of the most highly generic or abstract ontologies.
+* I recommend the more neutral term ['generic ontology'](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/blob/main/GenericNameForUpperOntologies_Rovetto_v2.pdf), which is more sparsely found in the literature, but which more accurately captures the idea and goal of the most highly generic or abstract ontologies.
 
 ### About upper ontology
 [This](https://blogs.ch.cam.ac.uk/pmr/2007/06/24/top-down-or-bottom-up-ontologies/) describes top or upper ontology consicely: "In information science, an upper ontology (top-level ontology, or foundation ontology) is an attempt to create an ontology which describes very general concepts that are the same across all domains. The aim is to have a large number on ontologies accessible under this upper ontology. It is usually a hierarchy of entities and associated rules (both theorems and regulations) that attempts to describe those general entities that do not belong to a specific problem domain."
