@@ -10,6 +10,7 @@ The task of developing highly broad ontologies involves creating a conceptual, o
 
 Two points are worth mentioning for both technical and ethical reasons: 
 - First, top-level or foundational ontologies are not strictly necessary; one can achieve the same goals purported by the use or development of these generic ontologies. 
+  - See [some problems and limitations with top-level ontologies](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/tree/main/Problems%20with%20Top-level%20Ontologies) 
 - Second, anyone can create their own highly generic ontology, whether incorporated in a more topic-specfic ontology or as a stand-alone separate ontology module. 
 These are worth mentioning because of competition among ontologies in the top-level ontology community, and the risk of monopolization. 
 
