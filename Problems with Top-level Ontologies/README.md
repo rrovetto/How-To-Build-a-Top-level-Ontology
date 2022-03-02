@@ -2,15 +2,17 @@
 
 This folder describes some limitations and problems with using top-level ontologies.
 
+These sorts of ontologies are typically intended to be the most general, and as such are often intended to subsume others. This introduces both technical and ethical concerns and potential consequences. As a most-generic conceptual model, they can represent the risk of being a one-to-rule-them-all product, i.e., monopolization. Their high degree of abstractness also make them subject to philosophical speculation and theory.
+
 "designing ontology is not a simple matter of putting the metaphysical categories on top and letting specific disciplines and domains add descendants." 
 (source: p136, Ontological Semantics Sergei Nirenburg and Victor Raskin The MIT Press 2004, Cambridge, Massachusetts, London, England ISBN 0-262-14086-1)
 
-The high degree of abstractness and generality of these types of ontology makes them both open to various conceptualizations, and amenable to philosophical speculation and theory.
+The high degree of abstractness and generality of these types of ontology--and the categories they encode--are inherently subject various conceptualizations. There can be various possible interpretations. Such high-level categories are by their character, underspecified; that is the purpose of generic categories. Trying to specify a very specific meaning to an inherently vague and generic concept excludes other intepretations/senses, and is in contrast to the inherently broadness that we can consider the purpose of the category.
 
 "It is best to allow for a diversity of knowledge representations instead of committing to a single one. This is true even in the field of ontology engineering. What we need are different ontologies you can play with, rather than choosing the one ontology which enforces you to subordinate your thoughts and the world.”
 (p.38, "Actually, What Does “Ontology” Mean?", Johannes Bussel)
 
-The mixing of philosophical and technical motivations may be a source of confusion and other problems, and may be potentially dangerous. When engaging in the most abstract concepts, it will be important to clearly distiinguish between any philosophical (e.g. metaphysical) views, assumptions, and claims from the technical (computational, data-centric, practical or goal-focused) choices, goals and motivations. If you are building a computational ontology that is also philosophically laden, then you should be transparent by explicitly stating the assumed ontological commitments in a metaphyiscal sense, and any adoped ideology (methodological or otherwise, e.g., ((non)reductionist, etc.).
+The mixing of philosophical and technical motivations may be a source of confusion and other problems, and may be potentially dangerous. When engaging in the most abstract concepts, it will be important to clearly distiinguish between any philosophical (e.g. metaphysical) views, assumptions, and claims from the technical (computational, data-centric, practical or goal-focused) choices, goals and motivations. If you are building a computational ontology that is also philosophically laden, then you should be transparent by explicitly stating the assumed ontological commitments in a metaphyiscal sense, and any adoped ideology (methodological or otherwise, e.g., ((non)reductionist, etc.). If you are trying to make metaphysical claims about the world, then you should be doing philosphy, not computational ontology; such abstract accounts or assumptions of the world should not be assumed on the data or domain that the ontology is potentially appplied to, not least because such abstract accounts are unverified, arguably unverifiable, and numerous in their variations. 
 
 ## Some problems
 - Not all concepts or categories can necessarily be grouped or subsumed under a more generic concept or category.
