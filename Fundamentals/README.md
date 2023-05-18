@@ -1,3 +1,5 @@
+![image](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/blob/c4e5370207ea2e5bf712884867a67f4938e925d8/images/AspectsTLO_v1_Rovetto.png)
+
 ## Terminology
 
 In the formal ontology community, the most abstract ontologies are often called: foundational, upper, top-level, generic, general, or core ontologies.
@@ -20,4 +22,4 @@ These, therefore, are not the most appropriate names for the most abstract ontol
 
 
 ## Copyright
-© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+© 2020-2023, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
