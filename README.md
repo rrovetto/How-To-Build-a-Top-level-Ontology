@@ -1,9 +1,9 @@
 # How To Build a Top-level Ontology
 
 ## Purpose
-This project explores whether a comprehensible procedure can be developed for creating the most abstract/generic ontologies (aka generic/general, top-level, foundational, core, upper ontologies). It would make the design and development of generic ontologies more accessible to all, and may thereby foster innovation and diversity.
+This project explores whether a comprehensible procedure can be developed for creating the most abstract/generic ontologies (aka generic/general, top-level, foundational, core, upper ontologies). It would make the design and development of generic ontologies more accessible to all.
 
-The project aims to provide a procedure for developing (a) the most abstract or generic ontologies, and (b) a broader ontology relative to a given ontology. A step-by-step procedure may help novice and professional ontologists, alike. A minimum goal is to provide a set of guidelines on how to build these ontologies for both scenarios, (a) and (b).
+The project aims to provide a procedure for developing (a) highly broad ontologies, and (b) a broader ontology _relative to_ a given (perhaps more topic-specific) ontology. A step-by-step procedure may help novice and professional ontologists, alike. A minimum goal is to provide a set of guidelines on how to build these ontologies for both scenarios, (a) and (b).
 
 ## Background
 The task of developing highly broad ontologies involves creating a conceptual, ontological, semantic, or knowledge model that can supposedly apply to any less abstract topic, concept, domain, discipline or universe of discourse. More specifically, it involves creating or identifying highly general concepts and terms, if not the most generic or fundamental concepts and terms we can presently conceive. Given this highly abstract character (the highly general concepts involved), creating these ontologies may be (or otherwise seem to be) very philosophical or otherwise overloaded with philosophical content (or baggage). When philosophical theories or concepts are employed in these ontologies, understanding them can be inaccessible to the non-specialist. Additionally, such ontologies with assumed philosophical theories may in fat not be applicable, appropriate, or desired for a given project, or use-case. Therefore, this project may identify a method to create these abstract ontologies (a) without necessarily committing to an ideology (philosophical or otherwise) or assume one or more metaphyiscal accounts of the world, and (b) for making their comprehension and development more accesible.  
@@ -26,6 +26,6 @@ In-progress, subject to revision, and no claims to completeness.
 
 
 ## Copyright
-© 2020-2022, Robert John Rovetto. All right reserved.
+© 2023, Robert John Rovetto. All right reserved.
 Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
 No warranty. Presented "AS IS". Author and copyright holder is not liable. All content, work and products are subject to revision. No claims to completeness or complete accuracy.
