@@ -1,4 +1,4 @@
-![image](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/blob/c4e5370207ea2e5bf712884867a67f4938e925d8/images/AspectsTLO_v1_Rovetto.png)
+![image](https://github.com/rrovetto/How-To-Build-a-Top-level-Ontology/blob/922bab791854a5c46b7223704ec7fa6a6a42de20/images/AspectsOfAbstractOntologies_Rovetto_v2.png)
 
 ## Terminology
 
