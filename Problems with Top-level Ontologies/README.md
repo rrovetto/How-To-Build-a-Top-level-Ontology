@@ -1,6 +1,7 @@
 # Problems and Limitations of Top-level Ontologies
 
-This folder describes some limitations and problems with using top-level ontologies. To see the Pros & Cons of ontologies and other knowledge-organization or semantic systems (such as Property Graphs, Semantic technology in general, taxonomies, Knowledge Graphs, etc.), [Donate $50 here for a copy](https://tinyurl.com/yyoo6z96 ) or [use this Paypal link](https://tinyurl.com/donateViaPayPalrr) of my [Catalog of Pros & Cons of Knowledge organization systems](https://docs.google.com/spreadsheets/d/1tJigcoOFIfppHZdf8WB0upgrtA6bSP7bxZcCCErKUsU/edit?skip_itp2_check=true#gid=0) website 
+- This folder describes some limitations and problems with using top-level ontologies.
+- To see the **Pros & Cons of ontologies and other knowledge-organization or semantic systems** (such as Property Graphs, Semantic technology in general, taxonomies, Knowledge Graphs, etc.), [Donate $50 here for a copy](https://tinyurl.com/yyoo6z96 ) or [use this Paypal link](https://tinyurl.com/donateViaPayPalrr) of my [Catalog of Pros & Cons of Knowledge organization systems](https://docs.google.com/spreadsheets/d/1tJigcoOFIfppHZdf8WB0upgrtA6bSP7bxZcCCErKUsU/edit?skip_itp2_check=true#gid=0) website 
 
 These sorts of ontologies are typically intended to be the most general, and as such are often intended to subsume others. This introduces both technical and ethical concerns and potential consequences. As a most-generic conceptual model, they can represent the risk of being a one-to-rule-them-all product, i.e., monopolization. Their high degree of abstractness also make them subject to philosophical speculation and theory.
 
