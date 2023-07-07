@@ -1,7 +1,8 @@
 ## Generic / Abstract Distinctions
 
-The highly abstract nature of the following distinctions is characteristic of philosophical inquiry. Some of the following originate from that intellectual history. The reader is encouraged to review the metaphysics literature (including philosophical ontology), linguistics literature, cognitive science literature, and psychology literature. 
-Although I list them using 'vs', e.g., 'category vs. individual', this is not intended to be interpreted as an opposition, contradiction or anything of a negative connotation. The list can just as easily use '-' between the categories, e.g., the category-individual distinction.
+The highly abstract nature of the following distinctions is characteristic of philosophical inquiry. Some of the following originate from that intellectual history. To gain an understanding of some ideas and theories on these distinctions, the reader is encouraged to review the metaphysics literature (including philosophical ontology), linguistics literature, cognitive science literature, and psychology literature. 
+
+I list these distinctions using 'vs', as in 'category vs. individual', but it is not intended to be interpreted as an opposition, contradiction or anything of a negative connotation. The list can just as easily use '-' between the categories, e.g., the category-individual distinction.
 
 * generic vs. specific
 * universal vs. particular
@@ -23,6 +24,5 @@ Although I list them using 'vs', e.g., 'category vs. individual', this is not in
 * space vs. time vs. space-time vs. spacetime
 * cause vs. effect
 
-
 ## Copyright
-© 2020-2021, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
+© 2023, Robert John Rovetto. All right reserved. Not authorized for commercial use unless explicitly negotiated with the author. Citation/attribution required.
